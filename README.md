@@ -10,15 +10,18 @@ Plugin para colocar movimentação de imagem, dado 5 fotos sequenciais  (ex..htt
 
 Para utilizar, basta colocar:
 
+<pre>
 <code>
 jQuery("#canvas-show-head").moveHead();
 </code>
-
+</pre>
 Onde #canvas-show-head é o container que contém a imagem chapada com as 5 fotos em sequência
 
+<pre>
 <code>
-<\div id="canvas-show-head"\>
-<\img src="caminho_da_imagem_contendo_as_5_fotos" />
-<\/div>
+&lt;div id="canvas-show-head"\&gt;
+&lt;img src="caminho_da_imagem_contendo_as_5_fotos" /&gt;
+&lt;div&gt;
 
 </code>
+</pre>
